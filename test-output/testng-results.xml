@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-27T12:43:02 BDT" name="Default suite" finished-at="2024-08-27T12:43:38 BDT" duration-ms="36469">
+    <groups>
+    </groups>
+    <test started-at="2024-08-27T12:43:02 BDT" name="Default test" finished-at="2024-08-27T12:43:38 BDT" duration-ms="36469">
+      <class name="Mobile_Automation.App_Automation">
+        <test-method is-config="true" signature="startApplication()[pri:0, instance:Mobile_Automation.App_Automation@6c40365c]" started-at="2024-08-27T12:43:02 BDT" name="startApplication" finished-at="2024-08-27T12:43:09 BDT" duration-ms="7579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApplication -->
+        <test-method signature="testGeneralStoreAPK()[pri:0, instance:Mobile_Automation.App_Automation@6c40365c]" started-at="2024-08-27T12:43:09 BDT" name="testGeneralStoreAPK" finished-at="2024-08-27T12:43:38 BDT" duration-ms="28850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGeneralStoreAPK -->
+        <test-method is-config="true" signature="quitApplication()[pri:0, instance:Mobile_Automation.App_Automation@6c40365c]" started-at="2024-08-27T12:43:38 BDT" name="quitApplication" finished-at="2024-08-27T12:43:38 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitApplication -->
+      </class> <!-- Mobile_Automation.App_Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
